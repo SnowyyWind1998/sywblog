@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/06/30/plan%20to%20make%20a%20PUBG%20software/</loc>
+    
+    <lastmod>2019-06-30T19:06:14.196Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/06/30/hello-world/</loc>
     
-    <lastmod>2019-06-30T18:56:43.210Z</lastmod>
+    <lastmod>2019-06-30T19:01:52.765Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/others/index.html</loc>
+    
+    <lastmod>2019-06-30T19:01:42.130Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/code/index.html</loc>
+    
+    <lastmod>2019-06-30T19:01:27.674Z</lastmod>
     
   </url>
   
@@ -33,27 +54,6 @@
     <loc>http://yoursite.com/photos/index.html</loc>
     
     <lastmod>2019-06-30T18:28:32.824Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/others/index.html</loc>
-    
-    <lastmod>2019-06-30T18:28:17.653Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/code/index.html</loc>
-    
-    <lastmod>2019-06-30T18:10:45.394Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/code/plan%20to%20make%20a%20PUBG%20software.html</loc>
-    
-    <lastmod>2019-06-30T05:56:30.552Z</lastmod>
     
   </url>
   
