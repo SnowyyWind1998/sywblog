@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2019/07/01/123/</loc>
+    <loc>http://yoursite.com/2019/07/02/Build-your-own-blog-by-HEXO/</loc>
     
-    <lastmod>2019-07-01T16:20:27.012Z</lastmod>
+    <lastmod>2019-07-02T08:49:19.560Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2019/06/30/Markdown/</loc>
     
-    <lastmod>2019-07-01T16:20:24.522Z</lastmod>
+    <lastmod>2019-07-02T08:47:38.198Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/07/02/Aegisub-subtitle-former/</loc>
+    
+    <lastmod>2019-07-02T08:21:41.494Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/tuition/index.html</loc>
     
-    <lastmod>2019-07-01T16:20:14.615Z</lastmod>
+    <lastmod>2019-07-02T08:20:51.369Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/07/01/123/</loc>
+    
+    <lastmod>2019-07-01T16:20:27.012Z</lastmod>
     
   </url>
   

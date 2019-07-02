@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-01T16:19:05.319Z</updated>
+  <updated>2019-07-02T08:21:41.494Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Aegisub subtitle former</title>
+    <link href="http://yoursite.com/2019/07/02/Aegisub-subtitle-former/"/>
+    <id>http://yoursite.com/2019/07/02/Aegisub-subtitle-former/</id>
+    <published>2019-07-02T07:17:01.000Z</published>
+    <updated>2019-07-02T08:21:41.494Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="tuition" scheme="http://yoursite.com/categories/tuition/"/>
+    
+    
+      <category term="Aegisub" scheme="http://yoursite.com/tags/Aegisub/"/>
+    
+      <category term="tuition" scheme="http://yoursite.com/tags/tuition/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Build your own blog by HEXO</title>
+    <link href="http://yoursite.com/2019/07/02/Build-your-own-blog-by-HEXO/"/>
+    <id>http://yoursite.com/2019/07/02/Build-your-own-blog-by-HEXO/</id>
+    <published>2019-07-02T05:57:12.000Z</published>
+    <updated>2019-07-02T08:49:19.560Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Build-your-own-blog-by-HEXO"><a href="#Build-your-own-blog-by-HEXO" class="headerlink" title="Build your own blog by HEXO"></a>Build your own blog by HEXO</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Build-your-own-blog-by-HEXO&quot;&gt;&lt;a href=&quot;#Build-your-own-blog-by-HEXO&quot; class=&quot;headerlink&quot; title=&quot;Build your own blog by HEXO&quot;&gt;&lt;/a&gt;Build
+      
+    
+    </summary>
+    
+      <category term="tuition" scheme="http://yoursite.com/categories/tuition/"/>
+    
+    
+      <category term="HEXO" scheme="http://yoursite.com/tags/HEXO/"/>
+    
+      <category term="个人博客" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>SyW测试场 11 3/4 新艾伦格背景故事补完</title>
@@ -141,9 +188,9 @@
     <link href="http://yoursite.com/2019/06/30/Markdown/"/>
     <id>http://yoursite.com/2019/06/30/Markdown/</id>
     <published>2019-06-30T05:56:30.552Z</published>
-    <updated>2019-07-01T16:20:24.522Z</updated>
+    <updated>2019-07-02T08:47:38.198Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="MarkDown"><a href="#MarkDown" class="headerlink" title="MarkDown"></a>MarkDown</h1><h2 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h2><h3 id="Sample-code"><a href="#Sample-code" class="headerlink" title="Sample code:"></a>Sample code:</h3><figure class="highlight clean"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># lv1 title</span><br><span class="line">## lv2 title</span><br><span class="line">### lv3 title</span><br><span class="line">#### lv4 title</span><br><span class="line">##### lv5 title</span><br><span class="line">###### lv6 title</span><br></pre></td></tr></table></figure><h3 id="Output"><a href="#Output" class="headerlink" title="Output:"></a>Output:</h3><h1 id="lv1-title"><a href="#lv1-title" class="headerlink" title="lv1 title"></a>lv1 title</h1><h2 id="lv2-title"><a href="#lv2-title" class="headerlink" title="lv2 title"></a>lv2 title</h2><h3 id="lv3-title"><a href="#lv3-title" class="headerlink" title="lv3 title"></a>lv3 title</h3><h4 id="lv4-title"><a href="#lv4-title" class="headerlink" title="lv4 title"></a>lv4 title</h4><h5 id="lv5-title"><a href="#lv5-title" class="headerlink" title="lv5 title"></a>lv5 title</h5><h6 id="lv6-title"><a href="#lv6-title" class="headerlink" title="lv6 title"></a>lv6 title</h6><h2 id="Text-form"><a href="#Text-form" class="headerlink" title="Text form"></a>Text form</h2><h3 id="Sample-code-1"><a href="#Sample-code-1" class="headerlink" title="Sample code"></a>Sample code</h3><figure class="highlight armasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">**<span class="keyword">bold**</span></span><br><span class="line"><span class="keyword">*italic*</span></span><br><span class="line"><span class="keyword">***bold </span>&amp; <span class="keyword">italic***</span></span><br><span class="line"><span class="keyword">~~delete~~</span></span><br></pre></td></tr></table></figure><p>Output:<br><strong>bold</strong><br><em>italic</em><br><strong><em>bold &amp; italic</em></strong><br><del>delete</del>  </p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><h3 id="Sample-Code"><a href="#Sample-Code" class="headerlink" title="Sample Code"></a>Sample Code</h3><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&gt;reference</span><br><span class="line"><span class="meta">&gt;&gt;</span>&gt;&gt;source</span><br><span class="line"><span class="meta">&gt;&gt;</span>&gt;&gt;&gt;&gt;&gt;work citation</span><br></pre></td></tr></table></figure><p>Output:</p><blockquote><p>reference</p><blockquote><blockquote><blockquote><p>source</p><blockquote><blockquote><blockquote><p>work citation</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="MarkDown"><a href="#MarkDown" class="headerlink" title="MarkDown"></a>MarkDown</h1><h2 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h2><h3 id="Sample-code"><a href="#Sample-code" class="headerlink" title="Sample code:"></a>Sample code:</h3><figure class="highlight clean"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># lv1 title</span><br><span class="line">## lv2 title</span><br><span class="line">### lv3 title</span><br><span class="line">#### lv4 title</span><br><span class="line">##### lv5 title</span><br><span class="line">###### lv6 title</span><br></pre></td></tr></table></figure><h3 id="Output"><a href="#Output" class="headerlink" title="Output:"></a>Output:</h3><h1 id="lv1-title"><a href="#lv1-title" class="headerlink" title="lv1 title"></a>lv1 title</h1><h2 id="lv2-title"><a href="#lv2-title" class="headerlink" title="lv2 title"></a>lv2 title</h2><h3 id="lv3-title"><a href="#lv3-title" class="headerlink" title="lv3 title"></a>lv3 title</h3><h4 id="lv4-title"><a href="#lv4-title" class="headerlink" title="lv4 title"></a>lv4 title</h4><h5 id="lv5-title"><a href="#lv5-title" class="headerlink" title="lv5 title"></a>lv5 title</h5><h6 id="lv6-title"><a href="#lv6-title" class="headerlink" title="lv6 title"></a>lv6 title</h6><h2 id="Text-form"><a href="#Text-form" class="headerlink" title="Text form"></a>Text form</h2><h3 id="Sample-code-1"><a href="#Sample-code-1" class="headerlink" title="Sample code"></a>Sample code</h3><figure class="highlight armasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">**<span class="keyword">bold**</span></span><br><span class="line"><span class="keyword">*italic*</span></span><br><span class="line"><span class="keyword">***bold </span>&amp; <span class="keyword">italic***</span></span><br><span class="line"><span class="keyword">~~delete~~</span></span><br></pre></td></tr></table></figure><p>Output:<br><strong>bold</strong><br><em>italic</em><br><strong><em>bold &amp; italic</em></strong><br><del>delete</del>  </p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><h3 id="Sample-Code"><a href="#Sample-Code" class="headerlink" title="Sample Code"></a>Sample Code</h3><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&gt;reference</span><br><span class="line"><span class="meta">&gt;&gt;</span>&gt;&gt;source</span><br><span class="line"><span class="meta">&gt;&gt;</span>&gt;&gt;&gt;&gt;&gt;work citation</span><br></pre></td></tr></table></figure><p>Output:</p><blockquote><p>reference</p><blockquote><blockquote><blockquote><p>source</p><blockquote><blockquote><blockquote><p>work citation</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote><h2 id="Super-Link"><a href="#Super-Link" class="headerlink" title="Super Link"></a>Super Link</h2><h3 id="Sample-Code-1"><a href="#Sample-Code-1" class="headerlink" title="Sample Code"></a>Sample Code</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[<span class="string">Website Name</span>](<span class="link">put website link here</span>)</span><br><span class="line">e.g. [<span class="string">Google</span>](<span class="link">www.google.com</span>)</span><br></pre></td></tr></table></figure><h3 id="Output-1"><a href="#Output-1" class="headerlink" title="Output"></a>Output</h3><p><a href="www.google.com">Google</a><br><a href="www.baidu.com">Baidu</a></p><h2 id="Former"><a href="#Former" class="headerlink" title="Former"></a>Former</h2><h3 id="Sample-Code-2"><a href="#Sample-Code-2" class="headerlink" title="Sample Code"></a>Sample Code</h3><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">.|<span class="string">a</span>|<span class="string">b</span>|c</span><br><span class="line">-|<span class="string">-</span>|<span class="string">-</span>|<span class="string">-</span></span><br><span class="line"><span class="string">a</span>|<span class="string">a</span>|<span class="string">b</span>|c</span><br><span class="line">b|<span class="string">b</span>|<span class="string">c</span>|d</span><br><span class="line">c|<span class="string">c</span>|<span class="string">d</span>|e</span><br></pre></td></tr></table></figure><h3 id="Output-2"><a href="#Output-2" class="headerlink" title="Output"></a>Output</h3><table><thead><tr><th>.</th><th>a</th><th>b</th><th>c</th></tr></thead><tbody><tr><td>a</td><td>a</td><td>b</td><td>c</td></tr><tr><td>b</td><td>b</td><td>c</td><td>d</td></tr><tr><td>c</td><td>c</td><td>d</td><td>e</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
